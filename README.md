@@ -26,4 +26,6 @@ Question - 1) List down bottom 5 tracks based on thier less popularity
 
 Question - 2) List down bottom 5 tracks with albums based on thier less duration time
 
+The Power BI file is also included for better visualization.
+
 The insights or call it answers for these questions have provided in the sql file.
